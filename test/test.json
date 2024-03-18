@@ -1,0 +1,79 @@
+﻿{
+  "qid": 7949,
+  "question": {
+    "answerArea": {
+      "calculator": false,
+      "options": {
+        "choices": [
+          {
+            "content": "(A) $8$",
+            "correct": true
+          },
+          {
+            "content": "(B) $10$",
+            "correct": false
+          },
+          {
+            "content": "(C) $12$",
+            "correct": false
+          },
+          {
+            "content": "(D) $23$",
+            "correct": false
+          },
+          {
+            "content": "(E) $24$",
+            "correct": false
+          }
+        ],
+        "displayCount": null,
+        "multipleSelect": false,
+        "noneOfTheAbove": false,
+        "onePerLine": true,
+        "randomize": false
+      },
+      "type": "radio"
+    },
+    "hints": [
+      {
+        "content": "展開絕對值成為 $-12 < 3x - 5 < 12 $",
+        "images": {},
+        "widgets": {}
+      },
+      {
+        "content": "將 $-5$ 移項成 $-7 < 3x < 17 \\Leftrightarrow \\frac{-7}{3} < x < \\frac{17}{3}$",
+        "images": {},
+        "widgets": {}
+      },
+      {
+        "content": "因為 $x$ 是整數，所以 $x$ 要取整數。",
+        "images": {},
+        "widgets": {}
+      },
+      {
+        "content": "所以 $-2 \\leq x \\leq 5$",
+        "images": {},
+        "widgets": {}
+      },
+      {
+        "content": "共有 $5 - ( -2 ) + 1 = 8$，所以答案是 $\\color{fuchsia}{8}$。",
+        "images": {},
+        "widgets": {}
+      }
+    ],
+    "itemDataVersion": {
+      "major": 0,
+      "minor": 1
+    },
+    "question": {
+      "content": "\n滿足 $| 3x - 5 | < 12$ 的整數有多少個？ ",
+      "images": {},
+      "widgets": {}
+    },
+    "related_video": [
+      " "
+    ]
+  },
+  "related_video": [],
+  "source": "得勝者學測模考數學01 單選 1"
+}
