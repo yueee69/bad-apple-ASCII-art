@@ -3,10 +3,10 @@ import pygame
 import time
 import os
 
-video_path = r"C:\Users\monke\OneDrive\桌面\bad apple\【東方】Bad Apple!! ＰＶ.mp4"
+video_path = r"\【東方】Bad Apple!! ＰＶ.mp4"
 cap = cv2.VideoCapture(video_path)
 
-music_file = r"C:\Users\monke\OneDrive\桌面\bad apple\【東方】Bad Apple!! ＰＶ【影絵】.mp3"
+music_file = r"C:\【東方】Bad Apple!! ＰＶ【影絵】.mp3"
 pygame.mixer.init()
 pygame.mixer.music.load(music_file)
 
